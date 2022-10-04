@@ -1,0 +1,5 @@
+name: OceanFPS
+version: '${project.version}'
+main: com.github.seagiga.oceanfps.OceanFPS
+depend:
+  - ProtocolLib
